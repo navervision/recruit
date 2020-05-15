@@ -62,14 +62,14 @@
 Vision 팀은 네이버의 스마트렌즈, 이미지/동영상 검색, 비주얼 커머스 서비스에 코어 기술을 제공하고 있으며, 라인 일본의 이미지/동영상 검색과 일본/대만/태국의 비주얼 커머스 기술을 담당하며 글로벌 서비스에 기여하고 있습니다.
 
 # Publications
-- Byungsoo Ko, Geonmo Gu. Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning. Computer Vision and Pattern Recognition (CVPR) 2020. [[paper](https://arxiv.org/abs/2003.02546)] [[code](https://github.com/clovaai/embedding-expansion)]
+- Byungsoo Ko, Geonmo Gu. Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning. Computer Vision and Pattern Recognition (CVPR) 2020. [[paper](https://arxiv.org/abs/2003.02546)] [[code](https://github.com/navervision/embedding-expansion)]
 - Yang-Ho Ji, HeeJae Jun, Insik Kim, Jongtack Kim, Youngjoon Kim, Byungsoo Ko, HyongKeun Kook, Jingeun Lee, Sangwon Lee, Sanghyuk Park. An Effective Pipeline for a Real-world Clothes Retrieval System. Computer Vision and Pattern Recognition (CVPR) Workshops, 2020. [[paper]()]
-- Geonmo Gu, Byungsoo Ko. Symmetrical Synthesis for Deep Metric Learning. The Association for the Advancement of Artificial Intelligence (AAAI) 2020. [[paper](https://arxiv.org/abs/2001.11658)] [[code](https://github.com/clovaai/symmetrical-synthesis)]
-- Jungkyu Lee, Taeryun Won, Tae Kwan Lee, Hyemin Lee, Geonmo Gu, Kiho Hong. Compounding the performance improvements of assembled techniques in a convolutional neural network. arXiv:2001.06268. [[paper](https://arxiv.org/abs/2001.06268)] [[code](https://github.com/clovaai/assembled-cnn)]
+- Geonmo Gu, Byungsoo Ko. Symmetrical Synthesis for Deep Metric Learning. The Association for the Advancement of Artificial Intelligence (AAAI) 2020. [[paper](https://arxiv.org/abs/2001.11658)] [[code](https://github.com/navervision/symmetrical-synthesis)]
+- Jungkyu Lee, Taeryun Won, Tae Kwan Lee, Hyemin Lee, Geonmo Gu, Kiho Hong. Compounding the performance improvements of assembled techniques in a convolutional neural network. arXiv:2001.06268. [[paper](https://arxiv.org/abs/2001.06268)] [[code](https://github.com/navervision/assembled-cnn)]
 - Sanghyuk Park, Minchul Shin, Sungho Ham, Seungkwon Choe, Yoohoon Kang. Study on Fashion Image Retrieval Methods for Efficient Fashion Visual Search. Computer Vision and Pattern Recognition (CVPR) Workshops, 2019. [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Park_Study_on_Fashion_Image_Retrieval_Methods_for_Efficient_Fashion_Visual_CVPRW_2019_paper.pdf)]
 - ByungSoo Ko, Minchul Shin, Geonmo Gu, HeeJae Jun, Tae Kwan Lee, Youngjoon Kim. A Benchmark on Tricks for Large-scale Image Retrieval. arXiv:1907.11854. [[paper](https://arxiv.org/abs/1907.11854)]
 - Minchul Shin, Sanghyuk Park, Taeksoo Kim. Semi-supervised Feature-Level Attribute Manipulation for Fashion Image Retrieval. British Machine Vision Conference (BMVC) 2019. [[paper](https://arxiv.org/abs/1907.05007)]
-- HeeJae Jun, ByungSoo Ko, Youngjoon Kim, Insik Kim, Jongtack Kim. Combination of multiple global descriptors for image retrieval. arXiv:1903.10663. [[paper](https://arxiv.org/abs/1903.10663)] [[code](https://github.com/naver/cgd)]
+- HeeJae Jun, ByungSoo Ko, Youngjoon Kim, Insik Kim, Jongtack Kim. Combination of multiple global descriptors for image retrieval. arXiv:1903.10663. [[paper](https://arxiv.org/abs/1903.10663)] [[code](https://github.com/navervision/cgd)]
 
 # Awards
 - 2nd Place in the CVPR 2020 DeepFashion2 Challenge, Clothes Retrieval Task. [[link](https://sites.google.com/view/cvcreative2020/deepfashion2#h.p_ATsWelcAKwt3)]
