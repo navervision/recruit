@@ -59,7 +59,13 @@
 # Team
 네이버 Vision 팀에서는 image classification, object detection, image retrieval, semantic segmentation 등의 일반적인 computer vision 기술뿐만 아니라 multi-modal image search, graph neural networks, image synthesis 등의 분야에서 최신 기술을 연구/개발하고 있습니다.
 이렇게 개발된 기술은 CVPR, AAAI 등 top-tier 학회에 논문으로 출판되었으며, 관련 workshop에서 주최하는 challenge에서도 다수 입상하였습니다.
-Vision 팀은 네이버의 스마트렌즈, 이미지/동영상 검색, 비주얼 커머스 서비스에 코어 기술을 제공하고 있으며, 라인 일본의 이미지/동영상 검색과 일본/대만/태국의 비주얼 커머스 기술을 담당하며 글로벌 서비스에 기여하고 있습니다.
+Vision 팀은 네이버의 **스마트렌즈**, **이미지/동영상 검색**, **비주얼 커머스** 서비스에 코어 기술을 제공하고 있으며, 라인 일본의 이미지/동영상 검색과 일본/대만/태국의 비주얼 커머스 기술을 담당하며 글로벌 서비스에 기여하고 있습니다.
+
+### 현황
+
+- 네이버 사내 서비스로 제공되는 공통 GPU 클러스터(C3DL, NSML) 외에도 수백여 개의 조직 전용 GPU를 사용하고 있습니다.
+- 또한 네이버 이미지 서비스를 위한 대규모 이미지 분산 시스템을 자체 구축/운영하고 있으며 이를 활용하여 여러 네이버 서비스에 AI 비전 기술을 제공하고 있습니다.
+- 대량의 트래픽을 처리하는 이미지 검색 API 서버를 구축하고 이를 여러 네이버 서비스에 제공하고 있습니다.
 
 # Publications
 - Byungsoo Ko, Geonmo Gu. Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning. Computer Vision and Pattern Recognition (CVPR) 2020. [[paper](https://arxiv.org/abs/2003.02546)] [[code](https://github.com/navervision/embedding-expansion)]
