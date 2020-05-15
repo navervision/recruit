@@ -67,7 +67,7 @@ Vision 팀은 네이버의 **스마트렌즈**, **이미지/동영상 검색**, 
 - 또한 네이버 이미지 서비스를 위한 대규모 이미지 분산 시스템을 자체 구축/운영하고 있으며 이를 활용하여 여러 네이버 서비스에 AI 비전 기술을 제공하고 있습니다.
 - 대량의 트래픽을 처리하는 이미지 검색 API 서버를 구축하고 이를 여러 네이버 서비스에 제공하고 있습니다.
 
-# Publications
+# Recent Publications
 - Byungsoo Ko, Geonmo Gu. Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning. Computer Vision and Pattern Recognition (CVPR) 2020. [[paper](https://arxiv.org/abs/2003.02546)] [[code](https://github.com/navervision/embedding-expansion)]
 - Yang-Ho Ji, HeeJae Jun, Insik Kim, Jongtack Kim, Youngjoon Kim, Byungsoo Ko, HyongKeun Kook, Jingeun Lee, Sangwon Lee, Sanghyuk Park. An Effective Pipeline for a Real-world Clothes Retrieval System. Computer Vision and Pattern Recognition (CVPR) Workshops, 2020.
 - Geonmo Gu, Byungsoo Ko. Symmetrical Synthesis for Deep Metric Learning. The Association for the Advancement of Artificial Intelligence (AAAI) 2020. [[paper](https://arxiv.org/abs/2001.11658)] [[code](https://github.com/navervision/symmetrical-synthesis)]
