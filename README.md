@@ -59,7 +59,7 @@
 # Team
 네이버 Vision 팀에서는 image classification, object detection, image retrieval, semantic segmentation 등의 일반적인 computer vision 기술뿐만 아니라 multi-modal image search, graph neural networks, image synthesis 등의 분야에서 최신 기술을 연구/개발하고 있습니다.
 이렇게 개발된 기술은 CVPR, AAAI 등 top-tier 학회에 논문으로 출판되었으며, 관련 workshop에서 주최하는 challenge에서도 다수 입상하였습니다.
-Vision 팀은 네이버의 **스마트렌즈**, **이미지/동영상 검색**, **비주얼 커머스** 서비스에 코어 기술을 제공하고 있으며, 라인 일본의 이미지/동영상 검색과 일본/대만/태국의 비주얼 커머스 기술을 담당하며 글로벌 서비스에 기여하고 있습니다.
+Vision 팀은 **네이버**의 **스마트렌즈**, **이미지/동영상 검색**, **비주얼 커머스** 서비스에 코어 기술을 제공하고 있으며, **라인 일본**의 **이미지/동영상 검색**과 일본/대만/태국의 **비주얼 커머스 기술**을 담당하며 글로벌 서비스에 기여하고 있습니다.
 
 ### 현황
 
