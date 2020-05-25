@@ -5,6 +5,8 @@
 네이버 Vision 팀에서 최고의 기술을 연구/개발하고 이를 글로벌 서비스에 적용하는 경험을 함께 할 능력있는 research/system engineer를 모집합니다. 
 [여기를 클릭](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004020&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=)하여 지원하세요.
 
+- 2020.05.25 추가 : **체험형 인턴 과정** 모집도 추가되었습니다. [여기를 클릭](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)하여 지원하세요.
+
 
 ### Computer Vision Research Engineer
 
