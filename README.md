@@ -81,5 +81,6 @@ Vision 팀은 **네이버**의 **스마트렌즈**, **이미지/동영상 검색
 
 # Awards
 - **2nd Place** in the CVPR 2020 DeepFashion2 Challenge, Clothes Retrieval Task. [[link](https://sites.google.com/view/cvcreative2020/deepfashion2#h.p_ATsWelcAKwt3)]
+- **2nd Place** in the CVPR 2020 Fashion IQ Challenge, Interactive Query Task by Fashion Attribute. [[link](https://sites.google.com/view/cvcreative2020/fashion-iq)]
 - **1st Place** in the CVPR 2019 iFood Challenge, Fine-Grained Visual Categorization. [[link](https://www.kaggle.com/c/ifood-2019-fgvc6)]
 
