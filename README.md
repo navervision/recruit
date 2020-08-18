@@ -70,6 +70,7 @@ Vision 팀은 **네이버**의 **스마트렌즈**, **이미지/동영상 검색
 - 대량의 트래픽을 처리하는 이미지 검색 API 서버를 구축하고 이를 여러 네이버 서비스에 제공하고 있습니다.
 
 # Recent Publications
+- Minchul Shin. **Semi-supervised Learning with a Teacher-student Network for Generalized Attribute Prediction.** European Conference on Computer Vision (ECCV) 2020. [[paper](https://arxiv.org/abs/2007.06769)]
 - Byungsoo Ko, Geonmo Gu. **Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning.** Computer Vision and Pattern Recognition (CVPR) 2020. [[paper](https://arxiv.org/abs/2003.02546)] [[code](https://github.com/navervision/embedding-expansion)]
 - Yang-Ho Ji, HeeJae Jun, Insik Kim, Jongtack Kim, Youngjoon Kim, Byungsoo Ko, HyongKeun Kook, Jingeun Lee, Sangwon Lee, Sanghyuk Park. **An Effective Pipeline for a Real-world Clothes Retrieval System.** Computer Vision and Pattern Recognition (CVPR) Workshops, 2020. [[paper](https://arxiv.org/abs/2005.12739)]
 - Geonmo Gu, Byungsoo Ko. **Symmetrical Synthesis for Deep Metric Learning.** The Association for the Advancement of Artificial Intelligence (AAAI) 2020. [[paper](https://arxiv.org/abs/2001.11658)] [[code](https://github.com/navervision/symmetrical-synthesis)]
