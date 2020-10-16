@@ -2,7 +2,7 @@
 네이버 Vision 팀의 미션은 우리 주변의 시각적 세계를 이해하는 기계학습 알고리즘을 개발하고, vision 기반의 새로운 사용자 경험을 네이버 제품에 적용하는 것입니다.
 
 # Open Positions
-네이버 Vision 팀에서 최고의 기술을 연구/개발하고 이를 글로벌 서비스에 적용하는 경험을 함께 할 능력있는 research/system engineer를 모집합니다. 
+네이버 Vision 팀에서 최고의 기술을 연구/개발하고 이를 글로벌 서비스에 적용하는 경험을 함께 할 능력있는 research/system/mobile engineer를 모집합니다. 
 [여기를 클릭](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004020&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=)하여 지원하세요.
 
 - 2020.05.25 추가 : **체험형 인턴 과정** 모집도 추가되었습니다. [여기를 클릭](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20004058&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=)하여 지원하세요.
@@ -55,6 +55,29 @@
   ### 채용하고 싶은 사람
   - 항상 겸손하고 배우는 자세로 동료들과 즐겁게 일할 수 있는 분
   - 최고의 기술 개발에 대한 욕심을 가진 분
+
+  </details>
+
+### Computer Vision Mobile Engineer
+
+  <details>
+
+  ### 역할
+  - 온-디바이스 딥러닝 기반의 computer vision 기술 및 서비스 개발
+  - 스마트렌즈 서비스 개발
+
+  ### 자격요건
+  - [공통] Computer vision 기술 개발에서부터 서비스 출시까지 적극적으로 참여할 수 있는 분
+  - [iOS] iOS 앱 개발 3년 이상 또는 그에 준하는 능력
+  - [Android] 안드로이드 앱 개발 3년 이상 또는 그에 준하는 능력
+
+  ### 우대사항
+  - Computer vision 기술 또는 딥러닝 모델을 단말(iOS 또는 Android)에 직접 올려서 서비스 해 보신 분
+  - OpenGL ES(Android) 또는 Metal(iOS) 관련 개발 경험이 있는 분
+
+  ### 채용하고 싶은 사람
+  - 항상 겸손하고 배우는 자세로 동료들과 즐겁게 일할 수 있는 분
+  - 최고의 기술 개발에 대한 욕심을 가진 
 
   </details>
 
