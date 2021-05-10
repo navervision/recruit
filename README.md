@@ -93,15 +93,18 @@ Vision 팀은 **네이버**의 **스마트렌즈**, **이미지/동영상 검색
 - 대량의 트래픽을 처리하는 이미지 검색 API 서버를 구축하고 이를 여러 네이버 서비스에 제공하고 있습니다.
 
 # Recent Publications
+- Minchul Shin, Yoonjae Cho, Byungsoo Ko, Geonmo Gu. **RTIC: Residual Learning for Text and Image Composition using Graph Convolutional Network.** arXiv 2021. [[paper](https://arxiv.org/abs/2104.03015)]
+- Byungsoo Ko, Geonmo Gu, Han-Gyu Kim. **Learning with Memory-based Virtual Classes for Deep Metric Learning.** arXiv 2021. [[paper](https://arxiv.org/abs/2103.16940)]
+- Geonmo Gu, Byungsoo Ko, Han-Gyu Kim. **Proxy Synthesis: Learning with Synthetic Classes for Deep Metric Learning.** The Association for the Advancement of Artificial Intelligence (AAAI) 2021. [[paper](https://arxiv.org/abs/2103.15454)] [[code](https://github.com/navervision/proxy-synthesis)]
 - Minchul Shin. **Semi-supervised Learning with a Teacher-student Network for Generalized Attribute Prediction.** European Conference on Computer Vision (ECCV) 2020. [[paper](https://arxiv.org/abs/2007.06769)]
 - Byungsoo Ko, Geonmo Gu. **Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning.** Computer Vision and Pattern Recognition (CVPR) 2020. [[paper](https://arxiv.org/abs/2003.02546)] [[code](https://github.com/navervision/embedding-expansion)]
 - Yang-Ho Ji, HeeJae Jun, Insik Kim, Jongtack Kim, Youngjoon Kim, Byungsoo Ko, HyongKeun Kook, Jingeun Lee, Sangwon Lee, Sanghyuk Park. **An Effective Pipeline for a Real-world Clothes Retrieval System.** Computer Vision and Pattern Recognition (CVPR) Workshops, 2020. [[paper](https://arxiv.org/abs/2005.12739)]
 - Geonmo Gu, Byungsoo Ko. **Symmetrical Synthesis for Deep Metric Learning.** The Association for the Advancement of Artificial Intelligence (AAAI) 2020. [[paper](https://arxiv.org/abs/2001.11658)] [[code](https://github.com/navervision/symmetrical-synthesis)]
-- Jungkyu Lee, Taeryun Won, Tae Kwan Lee, Hyemin Lee, Geonmo Gu, Kiho Hong. **Compounding the performance improvements of assembled techniques in a convolutional neural network.** arXiv:2001.06268. [[paper](https://arxiv.org/abs/2001.06268)] [[code](https://github.com/navervision/assembled-cnn)]
+- Jungkyu Lee, Taeryun Won, Tae Kwan Lee, Hyemin Lee, Geonmo Gu, Kiho Hong. **Compounding the performance improvements of assembled techniques in a convolutional neural network.** arXiv 2020. [[paper](https://arxiv.org/abs/2001.06268)] [[code](https://github.com/navervision/assembled-cnn)]
 - Sanghyuk Park, Minchul Shin, Sungho Ham, Seungkwon Choe, Yoohoon Kang. **Study on Fashion Image Retrieval Methods for Efficient Fashion Visual Search.** Computer Vision and Pattern Recognition (CVPR) Workshops, 2019. [[paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/FFSS-USAD/Park_Study_on_Fashion_Image_Retrieval_Methods_for_Efficient_Fashion_Visual_CVPRW_2019_paper.pdf)]
-- ByungSoo Ko, Minchul Shin, Geonmo Gu, HeeJae Jun, Tae Kwan Lee, Youngjoon Kim. **A Benchmark on Tricks for Large-scale Image Retrieval.** arXiv:1907.11854. [[paper](https://arxiv.org/abs/1907.11854)]
+- ByungSoo Ko, Minchul Shin, Geonmo Gu, HeeJae Jun, Tae Kwan Lee, Youngjoon Kim. **A Benchmark on Tricks for Large-scale Image Retrieval.** arXiv 2019. [[paper](https://arxiv.org/abs/1907.11854)]
 - Minchul Shin, Sanghyuk Park, Taeksoo Kim. **Semi-supervised Feature-Level Attribute Manipulation for Fashion Image Retrieval.** British Machine Vision Conference (BMVC) 2019. [[paper](https://arxiv.org/abs/1907.05007)]
-- HeeJae Jun, ByungSoo Ko, Youngjoon Kim, Insik Kim, Jongtack Kim. **Combination of multiple global descriptors for image retrieval.** arXiv:1903.10663. [[paper](https://arxiv.org/abs/1903.10663)] [[code](https://github.com/navervision/cgd)]
+- HeeJae Jun, ByungSoo Ko, Youngjoon Kim, Insik Kim, Jongtack Kim. **Combination of multiple global descriptors for image retrieval.** arXiv 2019. [[paper](https://arxiv.org/abs/1903.10663)] [[code](https://github.com/navervision/cgd)]
 
 # Awards
 - **2nd Place** in the CVPR 2020 DeepFashion2 Challenge, Clothes Retrieval Task. [[link](https://sites.google.com/view/cvcreative2020/deepfashion2#h.p_ATsWelcAKwt3)]
