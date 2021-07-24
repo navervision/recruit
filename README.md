@@ -95,7 +95,7 @@ Vision 팀은 **네이버**의 **스마트렌즈**, **이미지/동영상 검색
 # Recent Publications
 - Geonmo Gu, Byungsoo Ko, SeoungHyun Go, Sung-Hyun Lee, Jingeun Lee, Minchul Shin. **Towards Real-time and Light-weight Line Segment Detection.** arXiv 2021. [[paper](https://arxiv.org/abs/2106.00186)] [[code](https://github.com/navervision/mlsd)]
 - Minchul Shin, Yoonjae Cho, Byungsoo Ko, Geonmo Gu. **RTIC: Residual Learning for Text and Image Composition using Graph Convolutional Network.** arXiv 2021. [[paper](https://arxiv.org/abs/2104.03015)]
-- Byungsoo Ko, Geonmo Gu, Han-Gyu Kim. **Learning with Memory-based Virtual Classes for Deep Metric Learning.** arXiv 2021. [[paper](https://arxiv.org/abs/2103.16940)]
+- Byungsoo Ko, Geonmo Gu, Han-Gyu Kim. **Learning with Memory-based Virtual Classes for Deep Metric Learning.** International Conference on Computer Vision (ICCV) 2021. [[paper](https://arxiv.org/abs/2103.16940)]
 - Geonmo Gu, Byungsoo Ko, Han-Gyu Kim. **Proxy Synthesis: Learning with Synthetic Classes for Deep Metric Learning.** The Association for the Advancement of Artificial Intelligence (AAAI) 2021. [[paper](https://arxiv.org/abs/2103.15454)] [[code](https://github.com/navervision/proxy-synthesis)]
 - Minchul Shin. **Semi-supervised Learning with a Teacher-student Network for Generalized Attribute Prediction.** European Conference on Computer Vision (ECCV) 2020. [[paper](https://arxiv.org/abs/2007.06769)]
 - Byungsoo Ko, Geonmo Gu. **Embedding Expansion: Augmentation in Embedding Space for Deep Metric Learning.** Computer Vision and Pattern Recognition (CVPR) 2020. [[paper](https://arxiv.org/abs/2003.02546)] [[code](https://github.com/navervision/embedding-expansion)]
