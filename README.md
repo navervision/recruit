@@ -93,6 +93,7 @@ Vision 팀은 **네이버**의 **스마트렌즈**, **이미지/동영상 검색
 - 대량의 트래픽을 처리하는 이미지 검색 API 서버를 구축하고 이를 여러 네이버 서비스에 제공하고 있습니다.
 
 # Recent Publications
+-  Byungsoo Ko, Geonmo Gu. **Large-scale Bilingual Language-Image Contrastive Learning.** International Conference on Learning Representations Workshop (ICLRW) 2022. [[paper](https://arxiv.org/abs/2203.14463)] [[code](https://github.com/navervision/KELIP)]
 - Geonmo Gu, Byungsoo Ko, SeoungHyun Go, Sung-Hyun Lee, Jingeun Lee, Minchul Shin. **Towards Real-time and Light-weight Line Segment Detection.** The Association for the Advancement of Artificial Intelligence (AAAI) 2022. [[paper](https://arxiv.org/abs/2106.00186)] [[code](https://github.com/navervision/mlsd)]
 - Minchul Shin, Yoonjae Cho, Byungsoo Ko, Geonmo Gu. **RTIC: Residual Learning for Text and Image Composition using Graph Convolutional Network.** arXiv 2021. [[paper](https://arxiv.org/abs/2104.03015)]
 - Byungsoo Ko, Geonmo Gu, Han-Gyu Kim. **Learning with Memory-based Virtual Classes for Deep Metric Learning.** International Conference on Computer Vision (ICCV) 2021. [[paper](https://arxiv.org/abs/2103.16940)]
